@@ -4,3 +4,6 @@ from random_list import get_random_elem
 create_directories()
 remove_directories()
 get_random_elem()
+
+
+# функции вызываются по два раза, пока не понял, в чем ошибка
